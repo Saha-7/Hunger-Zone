@@ -2,9 +2,11 @@
   "name": "food-delivery",
   "version": "1.0.0",
   "description": "Online Food Delivery App",
- 
+  "main": "App.js",
+  
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
