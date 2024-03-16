@@ -1,4 +1,4 @@
-# Online_Food_Ordering
+# An Online_Food_Ordering App
 # `Before running this application or clicking on the deployed link, first you have to make sure that you have installed the CORS Browser Extension in your browser.`
 
 ## `Won't it will not be able to fetch the data from the SWIGGY API because of the CORS Error!`
