@@ -23,7 +23,7 @@ const RestaurantMenu = () => {
         cuisines
     } = resInfo?.data?.cards[2]?.card?.card?.info
 
-   const {itemCards}= resInfo?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]?.card?.card
+   const {itemCards}= resInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]?.card?.card
  
    // console.log(resInfo?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards)
 
