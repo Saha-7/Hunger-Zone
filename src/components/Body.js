@@ -72,7 +72,7 @@ const Body = () => {
           <button
             className="p-2 bg-indigo-500 rounded-lg"
             onClick={() => {
-              const filteredList = filteredRestaurant.filter((res) => res.info.avgRating > 4.2);
+              const filteredList = filteredRestaurant.filter((res) => res.info.avgRating > 4.5);
               setFilteredRestaurant(filteredList);
             }}
            >
