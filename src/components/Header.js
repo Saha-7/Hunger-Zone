@@ -8,6 +8,10 @@ import { useSelector } from "react-redux";
 const Header = () => {
   const [btnNameReact, setBtnNameReact] = useState("Log In")
 
+  useEffect(()=>{
+    alert("You have to install CORS Browser extension for this. Won't the data will not be fetched.")
+  },[])
+
   const onlineStatus = useOnlineStatus()
 
   const { loggedInUser } = useContext(UserContext)
