@@ -9,7 +9,7 @@ const Header = () => {
   const [btnNameReact, setBtnNameReact] = useState("Log In")
 
   useEffect(()=>{
-    alert("You have to install CORS Browser extension for this. Won't the data will not be fetched.")
+    alert("You have to install CORS Browser Extension. Won't the data will not be fetched because of CORS Error.")
   },[])
 
   const onlineStatus = useOnlineStatus()
