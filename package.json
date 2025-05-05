@@ -2,8 +2,6 @@
   "name": "Hunger-Zone",
   "version": "1.0.0",
   "description": "Online Food Delivery App",
-  
-  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -16,9 +14,14 @@
   "author": "Pritam Saha",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.23.9",
-    "@babel/preset-env": "^7.23.9",
-    "parcel": "^2.11.0",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.1",
+    "@parcel/transformer-react-refresh-wrap": "^2.14.4",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/react": "^16.3.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "parcel": "^2.14.4",
     "postcss": "^8.4.33",
     "process": "^0.11.10",
     "tailwindcss": "^3.4.1"
