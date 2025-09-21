@@ -13,6 +13,8 @@
 
 ## `Won't it will not be able to fetch the data from the SWIGGY API because of the CORS Error!`
 
+## [CORS Extension Link](https://chromewebstore.google.com/detail/lhobafahddgcelffkeicbaginigeejlf?utm_source=item-share-cb)
+
 ### Commands after cloning the repo to run the project locally :
 ### 1. `npm install`
 ### 2. `npm start`
