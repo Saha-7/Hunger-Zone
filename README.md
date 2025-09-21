@@ -17,7 +17,8 @@
 
 ### Commands after cloning the repo to run the project locally :
 ### 1. `npm install`
-### 2. `npm start`
+### 2. `Turn on the CORS extension`
+### 3. `npm start`
 
 ![Home](https://github.com/Saha-7/Online_Food_Ordering/blob/main/Screenshots/home.png)
 ![Home 1](https://github.com/Saha-7/Online_Food_Ordering/blob/main/Screenshots/home1.png)
